@@ -1,0 +1,36 @@
+.grey {
+    background-color: #d7ccc0;
+}
+
+.white {
+    background-color: #fff;
+}
+
+.brown {
+    background-color: #b09a81;
+}
+
+.dark {
+    background-color: #2a2626;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 1.2em;
+}
+
+h2 {
+    font-size: 60px;
+    line-height: 1.2em;
+}
+
+h3 {
+    font-size: 34px;
+    line-height: 1.2em;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6 em;
+    color: #2A2626;
+}
